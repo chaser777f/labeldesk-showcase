@@ -10,6 +10,8 @@ An AI-assisted personal Python project exploring data verification and review wo
 - [Formatted HTML report](sample/glenmark-case.html) — download and open locally; GitHub displays HTML source.
 - [Focused evidence JSON](sample/glenmark-evidence.json) — versions, acquisition timestamps, public source URLs and SHA-256 hashes.
 
+To view the formatted report, choose **Code → Download ZIP** on this repository, extract the entire ZIP, and open `sample/glenmark-case.html` in your browser. Keep the extracted folder structure intact so the report's link to `glenmark-evidence.json` works. No installation is needed.
+
 Evidence was acquired October 2, 2026. This showcase does not claim those saved records describe today's labels or distribution.
 
 ## What the project demonstrates
