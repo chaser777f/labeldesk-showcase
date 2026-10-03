@@ -1,0 +1,138 @@
+{
+  "as_of": "2026-10-02",
+  "digest_evidence_sha256": "b7849fa6b715b45d2ce45c258a9d3b827bbfae7e4e51a31ac7fdcd4309bba234",
+  "excerpts": {
+    "brand_previous": "There are suggestions, yet to be proven",
+    "brand_updated": "or (4) the presence of the HLA-B*1502 allele.",
+    "generic_retained": [
+      "Other than age, there are as yet no factors identified",
+      "There are suggestions, yet to be proven"
+    ]
+  },
+  "labels": [
+    {
+      "acquisition_url": "https://dailymed.nlm.nih.gov/dailymed/getArchivalFile.cfm?archive_id=888189",
+      "applications": [
+        "NDA020241",
+        "NDA020764",
+        "NDA022251"
+      ],
+      "effective_time": "20250425",
+      "published": "2025-05-07",
+      "retrieved_at": "2026-10-02T19:11:34.918749+00:00",
+      "setid": "d7e3572d-56fe-4727-2bb4-013ccca22678",
+      "sha256": "62385e6369c938be8e25ed69abc1be92a4234215240aa9ea11ebdf29cae4dd1c",
+      "version": 43,
+      "version_view": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d7e3572d-56fe-4727-2bb4-013ccca22678&version=43"
+    },
+    {
+      "acquisition_url": "https://dailymed.nlm.nih.gov/dailymed/getArchivalFile.cfm?archive_id=917838",
+      "applications": [
+        "NDA020241",
+        "NDA020764",
+        "NDA022251"
+      ],
+      "effective_time": "20251010",
+      "published": "2025-11-17",
+      "retrieved_at": "2026-10-02T19:11:34.918749+00:00",
+      "setid": "d7e3572d-56fe-4727-2bb4-013ccca22678",
+      "sha256": "418c19871bedf2dbb04cef330361a1e9b0598eaf242a42d89c5572af9f4b3b55",
+      "version": 44,
+      "version_view": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d7e3572d-56fe-4727-2bb4-013ccca22678&version=44"
+    },
+    {
+      "acquisition_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/50fcf452-2d21-493e-a1dd-0c6ea9ac6184.xml",
+      "applications": [
+        "ANDA079099"
+      ],
+      "effective_time": "20260129",
+      "published": "2026-02-02",
+      "retrieved_at": "2026-10-02T19:34:59.560935+00:00",
+      "setid": "50fcf452-2d21-493e-a1dd-0c6ea9ac6184",
+      "sha256": "f8cf5e327d8cc355baf4d85a484f276f21f265cb784a0f2f871286316b113ed5",
+      "version": 26,
+      "version_view": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=50fcf452-2d21-493e-a1dd-0c6ea9ac6184&version=26"
+    },
+    {
+      "acquisition_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/d7e3572d-56fe-4727-2bb4-013ccca22678.xml",
+      "applications": [
+        "NDA020241",
+        "NDA020764",
+        "NDA022251"
+      ],
+      "effective_time": "20251010",
+      "published": "2026-08-20",
+      "retrieved_at": "2026-10-02T19:11:34.918749+00:00",
+      "setid": "d7e3572d-56fe-4727-2bb4-013ccca22678",
+      "sha256": "8f685ccbdae666918ed3e8afc758097c9a149f691565aff1cd9ac30096b34ae5",
+      "version": 45,
+      "version_view": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d7e3572d-56fe-4727-2bb4-013ccca22678&version=45"
+    }
+  ],
+  "observation": "Saved generic boxed-warning wording differs from brand v44/v45.",
+  "orange_book": {
+    "anda_products": [
+      {
+        "appl_no": "079099",
+        "appl_type": "A",
+        "applicant": "GLENMARK PHARMACEUTICALS LTD",
+        "df_route": "TABLET, FOR SUSPENSION;ORAL",
+        "ingredient": "LAMOTRIGINE",
+        "market_status": "RX",
+        "product_no": "001",
+        "rld": false,
+        "strength": "5MG",
+        "te_code": "AB",
+        "trade_name": "LAMOTRIGINE"
+      },
+      {
+        "appl_no": "079099",
+        "appl_type": "A",
+        "applicant": "GLENMARK PHARMACEUTICALS LTD",
+        "df_route": "TABLET, FOR SUSPENSION;ORAL",
+        "ingredient": "LAMOTRIGINE",
+        "market_status": "RX",
+        "product_no": "002",
+        "rld": false,
+        "strength": "25MG",
+        "te_code": "AB",
+        "trade_name": "LAMOTRIGINE"
+      }
+    ],
+    "edition": "EOBZIP_2026_08.zip (products.txt dated 2026-09-11)",
+    "inference_basis": "strength",
+    "inferred_reference_products": [
+      {
+        "appl_no": "020764",
+        "appl_type": "N",
+        "applicant": "GLAXOSMITHKLINE LLC",
+        "df_route": "TABLET, FOR SUSPENSION;ORAL",
+        "ingredient": "LAMOTRIGINE",
+        "market_status": "RX",
+        "product_no": "001",
+        "rld": true,
+        "strength": "5MG",
+        "te_code": "AB",
+        "trade_name": "LAMICTAL CD"
+      },
+      {
+        "appl_no": "020764",
+        "appl_type": "N",
+        "applicant": "GLAXOSMITHKLINE LLC",
+        "df_route": "TABLET, FOR SUSPENSION;ORAL",
+        "ingredient": "LAMOTRIGINE",
+        "market_status": "RX",
+        "product_no": "002",
+        "rld": true,
+        "strength": "25MG",
+        "te_code": "AB",
+        "trade_name": "LAMICTAL CD"
+      }
+    ],
+    "retrieved_at": "2026-10-02T20:08:12.375292+00:00",
+    "sha256": "84e616aacf4f42bb85a94586c10abfc260f8fb9b60f07db3f10315ae70a3298e",
+    "source_url": "https://www.fda.gov/media/76860/download?attachment"
+  },
+  "schema": "LabelDeskInterviewCaseV1",
+  "scope": "Expert review of retained text and an inferred product match; no compliance conclusion."
+}
