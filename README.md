@@ -4,6 +4,8 @@
 
 An AI-assisted personal Python project exploring data verification and review workflows for public drug-label records. It compares saved DailyMed label versions and checks selected wording against saved generic-label text. Its outputs are review leads, not regulatory or medical conclusions.
 
+**Status:** research prototype with a dated public-record sample. Independent labeling-specialist validation remains outstanding.
+
 ## Start with the sample
 
 - [Readable sample report](SAMPLE-REPORT.md)
